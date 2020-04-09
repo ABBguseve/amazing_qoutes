@@ -1,6 +1,6 @@
 # Amazing Qoutes
 
-Amazing Qoutes är en websida som visar upp AI genererade qoutes. Qoutesen är genererade av en tränad vikt och läggs sedan upp på hemsidan. Nya qoutes genereras i intervall och byts ut mot den gamla quoten.
+Amazing Qoutes är en websida som visar upp AI genererade qoutes. Qoutesen är genererade av en tränad vikt och läggs sedan upp på hemsidan. Nya qoutes genereras i intervall och byts ut mot den gamla quoten. Sidan är tänkt att updateras dagligen men intervallet är nu kortare för att kunna demostreras bättre. 
 
 ## Installation
 
@@ -38,3 +38,4 @@ Här beskirver jag hur jag har arbetat, vilka problem som har uppkommit, hur jag
 
 ## Förändringar jag skulle vilja göra
 
+En sak som jag skulle vilja lägga till och även hade tänkt ha med i början är att det finns en till sektion på hemsidan där det finns en knapp som man kan klicka på för att direkt generera en egen qoute. Jag tog inte med detta eftersom att jag fick problem med att starta python scriptet från hemsidan och kände att jag inte ville lägga för mycket tid på det, jag ville istället fokusera på huvudelen av projektet. 
