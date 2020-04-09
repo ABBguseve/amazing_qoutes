@@ -25,7 +25,7 @@ Det kommer att ta någon minut för scriptet att generera första qouten då "ta
 
 Koden är satt på ett intervall på en minut och kommer att fortsätta generera qoutes i det intevallet tills scriptet avbryts. 
 
-# Mitta Arbete
+# Mitt Arbete
 
 Här beskirver jag hur jag har arbetat, vilka problem som har uppkommit, hur jag löste de samt vad jag skulle gjord annorlunda om jag fick göra om projektet och förbättringsmöjligheter.
 
