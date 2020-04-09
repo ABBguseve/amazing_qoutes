@@ -1,2 +1,2 @@
 # amazing_qoutes
-**Test
+*Test
