@@ -20,7 +20,7 @@ pip install tensorflow==1.13.1
 
 Se till att du har navigerat till rätt folder innan du startar koden. Du ska vara i "amazing_qoutes".
 
-* Börja med att köra **downloader.py**. Det tar ett tag för programmet att ladda ner filen från google drive.
+* Börja med att köra [**downloader.py**](). Det tar ett tag för programmet att ladda ner filen från google drive.
 * Starta sedan upp hemisdan på localhost i din webläsare. Du borde se att det står "Start the python script to generate the first quote". Testa att updatera sidan om ingen text kommer upp.
 * Starta sedan python scriptet (Viktigt att du har navigerat till rätt folder).
 
