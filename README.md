@@ -14,3 +14,8 @@ Tensorflow behöver vara i version 1.13.1 för att scriptet ska fungera detta g�
 ```
 pip install tensorflow==1.13.1
 ```
+### Köra koden
+Se till att du har navigerat till rätt folder innan du startar koden. Du ska vara i "amazing_qoutes".
+
+* Starta först upp hemisdan på localhost i din webläsare. Du borde se att det står "Start the python script to generate the first quote".
+* Starta sedan python scriptet (Viktigt att du har navigerat till rätt folder).
