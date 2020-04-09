@@ -4,7 +4,13 @@ Amazing Qoutes är en websida som visar upp AI genererade qoutes. Qoutesen är g
 
 ## Starta
 
-För att Kunna köra python scriptet som generar qoutes är det vissa saker som behövs installeras:
+För att Kunna köra python scriptet som generar qoutes är det vissa saker som behövs installeras. Detta görs genom att skriva in detta i terminalen:
 ```
-pip install tensorflow
+pip install gtts
+pip install gpt_2_simple
+pip install tarfile
+```
+Tensorflow behöver vara i verition 1.13.1 för att scriptet ska fungera detta gör du genom att skriva detta i terminalen
+```
+pip install tensorflow==1.13.1
 ```
