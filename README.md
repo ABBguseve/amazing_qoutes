@@ -22,7 +22,7 @@ Se till att du har navigerat till rätt folder innan du startar koden. Du ska va
 
 * Börja med att köra [**downloader.py**](https://github.com/ABBguseve/amazing_qoutes/blob/master/qouteGeneration/downloader.py). Det tar ett tag för programmet att ladda ner filen från google drive.
 * Starta sedan upp hemisdan på localhost i din webläsare. Du borde se att det står "Start the python script to generate the first quote". Testa att updatera sidan om ingen text kommer upp.
-* Starta sedan [python scriptet](https://github.com/ABBguseve/amazing_qoutes/blob/master/qouteGeneration/QouteGenerator.py) (Viktigt att du har navigerat till rätt folder).
+* Starta sedan [python scriptet](https://github.com/ABBguseve/amazing_qoutes/blob/master/qouteGeneration/QouteGenarator.py) (Viktigt att du har navigerat till rätt folder).
 
 Det kommer att ta någon minut för scriptet att generera första qouten då "tar" filen måsta packas upp. Qouten borde skrivas ut i terminalen och ska då också finnas på hemsidan. 
 
