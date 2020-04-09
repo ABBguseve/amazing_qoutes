@@ -10,7 +10,7 @@ pip install gtts
 pip install gpt_2_simple
 pip install tarfile
 ```
-Tensorflow behöver vara i verition 1.13.1 för att scriptet ska fungera detta gör du genom att skriva detta i terminalen
+Tensorflow behöver vara i version 1.13.1 för att scriptet ska fungera detta gör du genom att skriva detta i terminalen
 ```
 pip install tensorflow==1.13.1
 ```
