@@ -1,10 +1,10 @@
-# Amazing Qoutes
+# Amazing Quotes
 
-Amazing Qoutes är en websida som visar upp AI genererade qoutes. Qoutesen är genererade av en tränad vikt och läggs sedan upp på hemsidan. Nya qoutes genereras i intervall och byts ut mot den gamla quoten. Sidan är tänkt att updateras dagligen men intervallet är nu kortare för att kunna demostreras bättre. 
+Amazing Quotes är en websida som visar upp AI genererade quotes. Quotesen är genererade av en tränad vikt och läggs sedan upp på hemsidan. Nya quotes genereras i intervall och byts ut mot den gamla quoten. Sidan är tänkt att updateras dagligen men intervallet är nu kortare för att kunna demostreras bättre. 
 
 ## Installation
 
-För att Kunna köra python scriptet som genererar qoutes är det vissa saker som behövs installeras. Detta görs genom att skriva in detta i terminalen:
+För att Kunna köra python scriptet som genererar quotes är det vissa saker som behövs installeras. Detta görs genom att skriva in detta i terminalen:
 ```
 pip install gtts
 
@@ -18,15 +18,15 @@ pip install tensorflow==1.13.1
 ```
 ## Köra koden
 
-Se till att du har navigerat till rätt folder innan du startar koden. Du ska vara i "amazing_qoutes".
+Se till att du har navigerat till rätt folder innan du startar koden. Du ska vara i "amazing_quotes".
 
 * Börja med att köra [**downloader.py**](https://github.com/ABBguseve/amazing_qoutes/blob/master/qouteGeneration/downloader.py). Det tar ett tag för programmet att ladda ner filen från google drive.
 * Starta sedan upp hemisdan på localhost i din webläsare. Du borde se att det står "Start the python script to generate the first quote". Testa att updatera sidan om ingen text kommer upp.
-* Starta sedan [**QouteGenerator.py**](https://github.com/ABBguseve/amazing_qoutes/blob/master/qouteGeneration/QouteGenarator.py) (Viktigt att du har navigerat till rätt folder).
+* Starta sedan [**QuoteGenerator.py**](https://github.com/ABBguseve/amazing_qoutes/blob/master/qouteGeneration/QouteGenarator.py) (Viktigt att du har navigerat till rätt folder).
 
-Det kommer att ta någon minut för scriptet att generera första qouten då "tar" filen måsta packas upp. Qouten borde skrivas ut i terminalen och ska då också finnas på hemsidan. 
+Det kommer att ta någon minut för scriptet att generera första quoten då "tar" filen måsta packas upp. Quoten borde skrivas ut i terminalen och ska då också finnas på hemsidan. 
 
-Koden är satt på ett intervall på en minut och kommer att fortsätta generera qoutes i det intevallet tills scriptet avbryts. 
+Koden är satt på ett intervall på en minut och kommer att fortsätta generera quotes i det intevallet tills scriptet avbryts. 
 
 # Mitt Arbete
 
@@ -41,4 +41,4 @@ Här beskirver jag hur jag har arbetat, vilka problem som har uppkommit, hur jag
 
 ## Förändringar jag skulle vilja göra
 
-En sak som jag skulle vilja lägga till och även hade tänkt ha med i början är att det finns en till sektion på hemsidan där det finns en knapp som man kan klicka på för att direkt generera en egen qoute. Jag tog inte med detta eftersom att jag fick problem med att starta python scriptet från hemsidan och kände att jag inte ville lägga för mycket tid på det, jag ville istället fokusera på huvudelen av projektet. 
+En sak som jag skulle vilja lägga till och även hade tänkt ha med i början är att det finns en till sektion på hemsidan där det finns en knapp som man kan klicka på för att direkt generera en egen quote. Jag tog inte med detta eftersom att jag fick problem med att starta python scriptet från hemsidan och kände att jag inte ville lägga för mycket tid på det, jag ville istället fokusera på huvudelen av projektet. 
