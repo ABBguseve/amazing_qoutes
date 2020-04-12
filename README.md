@@ -16,6 +16,13 @@ Tensorflow behöver vara i version 1.13.1 för att scriptet ska fungera detta g�
 ```
 pip install tensorflow==1.13.1
 ```
+### Live Server
+
+Jag kör själv med en extention i visual studio sam heter **Live Server**. Den gör det egentligen lättare att göra hemsidan men det funkar även bättre att köra programmet med Live Server. 
+
+**Instalation Live server**
+
+För att instalera, gå till extention i visual studio och sök efter live server. Ladda ner den första som kommer up. Efter det så högerklickar du på "html" filen och klickar på **Open with Live Server**. Hemsidan kommer då öppnas i din standard webläsare och koden kan då fungera bättre. 
 ## Köra koden
 
 Se till att du har navigerat till rätt folder innan du startar koden. Du ska vara i "amazing_quotes".
