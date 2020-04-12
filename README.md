@@ -22,7 +22,7 @@ Jag kör själv med en extention i visual studio sam heter **Live Server**. Den 
 
 **Instalation Live server**
 
-För att instalera, gå till extention i visual studio och sök efter live server. Ladda ner den första som kommer up. Efter det så högerklickar du på [html]() filen och klickar på **Open with Live Server**. Hemsidan kommer då öppnas i din standard webläsare och koden kan då fungera bättre. 
+För att instalera, gå till extention i visual studio och sök efter live server. Ladda ner den första som kommer up. Efter det så högerklickar du på [html](https://github.com/ABBguseve/amazing_qoutes/blob/master/website/index.html) filen och klickar på **Open with Live Server**. Hemsidan kommer då öppnas i din standard webläsare och koden kan då fungera bättre. 
 ## Köra koden
 
 Se till att du har navigerat till rätt folder innan du startar koden. Du ska vara i "amazing_quotes".
